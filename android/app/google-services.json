@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "869083543955",
+    "project_id": "iltgoaccounts",
+    "storage_bucket": "iltgoaccounts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869083543955:android:853835073fc9fcb1011066",
+        "android_client_info": {
+          "package_name": "com.example.iltgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869083543955-ksf28dqbqr979qcc1slsbj59tji02nnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMTolQeUD_mDqgNcymTreKYM_qaNNE7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869083543955-ksf28dqbqr979qcc1slsbj59tji02nnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869083543955-j903mucql32a45733v2f5lrm47kvhgnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iltgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

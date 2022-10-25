@@ -1,0 +1,14 @@
+Stop
+Give Way
+Pedestrian
+Turn Left
+Turn Right
+Proceed Straight
+Left turner must give way
+Speed Limit
+Passing left or right mandatory
+Bike Lane
+No Entry
+Tricycle Prohibited
+No Parking
+Roundabout
