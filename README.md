@@ -1,6 +1,6 @@
 # iltgo
 
-A traffic app.
+LTO Guide and Reviewer
 
 ## Getting Started
 
